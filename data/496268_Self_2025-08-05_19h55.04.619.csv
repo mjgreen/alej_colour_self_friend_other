@@ -1,0 +1,51 @@
+﻿task,ins,thisN,thisTrialN,thisRepN,word,color,key_resp_instrucctions.keys,key_resp_instrucctions.rt,key_resp_instrucctions.duration,key_resp.keys,key_resp.rt,key_resp.duration,blocks.thisRepN,blocks.thisTrialN,blocks.thisN,blocks.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,welcome.started,welcome_text.started,welcome_key.started,welcome.stopped,welcome_key.keys,welcome_key.rt,welcome_key.duration,instructions.started,text_instructions.started,key_resp_instrucctions.started,instructions.stopped,blocks.key_resp_instrucctions.keys,blocks.key_resp_instrucctions.rt,blocks.key_resp_instrucctions.duration,fixation_duration,stimulus.started,fix.started,fix.stopped,stimuli.started,key_resp.started,stimulus.stopped,trials.key_resp.keys,trials.key_resp.rt,trials.key_resp.duration,goodbye.started,goodbye_text.started,goodbye_response.started,goodbye_text.stopped,goodbye.stopped,goodbye_response.keys,goodbye_response.rt,goodbye_response.duration,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,,,,,,,,,,,,,,,,,,0.007533099967986345,0.011731900041922927,0.011731900041922927,0.5864289000164717,space,0.5679303999058902,None,,,,,,,,,,,,,,,,,,,,,,,,,,496268,001,2025-08-05_19h55.04.619,Self,2024.2.4,163.17499392676663,2025-08-05 19h55.08.544666 +0100,
+identity,"In the following task, you will need to report the identity of the word. 
+- If the word is self, press j
+- If the word is friend, press k
+- If the word is other, press l
+
+press the space key to start",0,0,0,self,red,space,1.0487102000042796,None,j,0.3137352999765426,None,0,0,0,1,0,0,0,0,1.6656353999860585,,,,,,,,,0.5963739000726491,0.6054018000140786,0.6054018000140786,1.6555079999379814,space,1.0487102000042796,None,0.4530207987588033,1.6597766000777483,1.6656353999860585,2.108477999921888,2.108477999921888,2.108477999921888,2.425238600000739,j,0.3137352999765426,None,,,,,,,,,496268,001,2025-08-05_19h55.04.619,Self,2024.2.4,163.17499392676663,2025-08-05 19h55.08.544666 +0100,
+identity,"In the following task, you will need to report the identity of the word. 
+- If the word is self, press j
+- If the word is friend, press k
+- If the word is other, press l
+
+press the space key to start",1,1,0,other,green,space,1.0487102000042796,None,k,0.2965261999052018,None,0,0,0,1,0,1,1,2,2.429489499889314,,,,,,,,,,,,,,,,0.47614314532659885,2.4266261998564005,2.429489499889314,2.89557270007208,2.89557270007208,2.89557270007208,3.194516799878329,k,0.2965261999052018,None,,,,,,,,,496268,001,2025-08-05_19h55.04.619,Self,2024.2.4,163.17499392676663,2025-08-05 19h55.08.544666 +0100,
+identity,"In the following task, you will need to report the identity of the word. 
+- If the word is self, press j
+- If the word is friend, press k
+- If the word is other, press l
+
+press the space key to start",2,2,0,friend,blue,space,1.0487102000042796,None,l,0.34312299988232553,None,0,0,0,1,0,2,2,1,3.199023500084877,,,,,,,,,,,,,,,,0.6750009296121472,3.1957799999509007,3.199023500084877,3.8653965999837965,3.8653965999837965,3.8653965999837965,4.212377799907699,l,0.34312299988232553,None,,,,,,,,,496268,001,2025-08-05_19h55.04.619,Self,2024.2.4,163.17499392676663,2025-08-05 19h55.08.544666 +0100,
+identity,"In the following task, you will need to report the identity of the word. 
+- If the word is self, press j
+- If the word is friend, press k
+- If the word is other, press l
+
+press the space key to start",0,0,0,,,space,1.0487102000042796,None,,,,0,0,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,496268,001,2025-08-05_19h55.04.619,Self,2024.2.4,163.17499392676663,2025-08-05 19h55.08.544666 +0100,
+color,"In the following task, you will need to report the color of the word. 
+- If the word is presented in blue, press j
+- If the word is presented in red, press k
+- If the word is presented in green, press l
+
+press the space key to start",0,0,0,other,green,space,1.6711215998511761,None,j,0.2756261001341045,None,0,1,1,0,0,0,0,2,5.906904299976304,,,,,,,,,4.2179733999073505,4.222890299977735,4.222890299977735,5.896533099934459,space,1.6711215998511761,None,0.7180597740400443,5.902487599989399,5.906904299976304,6.61678189993836,6.61678189993836,6.61678189993836,6.896626699948683,j,0.2756261001341045,None,,,,,,,,,496268,001,2025-08-05_19h55.04.619,Self,2024.2.4,163.17499392676663,2025-08-05 19h55.08.544666 +0100,
+color,"In the following task, you will need to report the color of the word. 
+- If the word is presented in blue, press j
+- If the word is presented in red, press k
+- If the word is presented in green, press l
+
+press the space key to start",1,1,0,friend,blue,space,1.6711215998511761,None,k,0.5392868998460472,None,0,1,1,0,0,1,1,1,6.901128399884328,,,,,,,,,,,,,,,,0.3861280228899966,6.897760099964216,6.901128399884328,7.27679149992764,7.27679149992764,7.27679149992764,7.817884299904108,k,0.5392868998460472,None,,,,,,,,,496268,001,2025-08-05_19h55.04.619,Self,2024.2.4,163.17499392676663,2025-08-05 19h55.08.544666 +0100,
+color,"In the following task, you will need to report the color of the word. 
+- If the word is presented in blue, press j
+- If the word is presented in red, press k
+- If the word is presented in green, press l
+
+press the space key to start",2,2,0,self,red,space,1.6711215998511761,None,k,0.45192170003429055,None,0,1,1,0,0,2,2,0,7.821982800029218,,,,,,,,,,,,,,,,0.6619678691848112,7.819214100018144,7.821982800029218,8.476429299917072,8.476429299917072,8.476429299917072,8.934071899857372,k,0.45192170003429055,None,,,,,,,,,496268,001,2025-08-05_19h55.04.619,Self,2024.2.4,163.17499392676663,2025-08-05 19h55.08.544666 +0100,
+color,"In the following task, you will need to report the color of the word. 
+- If the word is presented in blue, press j
+- If the word is presented in red, press k
+- If the word is presented in green, press l
+
+press the space key to start",1,1,0,,,space,1.6711215998511761,None,,,,0,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,496268,001,2025-08-05_19h55.04.619,Self,2024.2.4,163.17499392676663,2025-08-05 19h55.08.544666 +0100,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.93466839985922,8.942213899921626,8.942213899921626,18.93406130000949,25.613138699904084,space,16.669496800052002,None,496268,001,2025-08-05_19h55.04.619,Self,2024.2.4,163.17499392676663,2025-08-05 19h55.08.544666 +0100,

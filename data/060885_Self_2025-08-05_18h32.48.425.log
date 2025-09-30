@@ -1,0 +1,111 @@
+5.1204 	INFO 	Loaded monitor calibration from ['2025_06_03 17:22']
+5.1280 	WARNING 	User requested fullscreen with size [1707 1067], but screen is actually [2560, 1600]. Using actual size
+5.3057 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002AF09E96830>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002AF09E967D0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002AF09F67910>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2560, 1600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.3058 	EXP 	window1: backgroundImage = ''
+5.3058 	EXP 	window1: backgroundFit = 'none'
+5.3734 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.3735 	EXP 	window1: recordFrameIntervals = False
+5.4360 	EXP 	window1: recordFrameIntervals = True
+5.5273 	EXP 	Screen (0) actual frame rate measured at 165.56Hz
+5.5273 	EXP 	window1: recordFrameIntervals = False
+7.5131 	INFO 	keyboard.Keyboard is using iohub backend.
+7.5131 	INFO 	keyboard.Keyboard is using iohub backend.
+7.5131 	INFO 	keyboard.Keyboard is using iohub backend.
+7.5131 	INFO 	keyboard.Keyboard is using iohub backend.
+7.5131 	INFO 	keyboard.Keyboard is using iohub backend.
+7.5132 	EXP 	Self: status = STARTED
+7.5766 	EXP 	Created welcome_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='welcome_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.5773 	EXP 	Created text_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+7.5778 	EXP 	Created stimuli = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+7.5808 	EXP 	Created goodbye_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='goodbye_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thanks for participating! ', units='height', win=Window(...), wrapWidth=1)
+0.0009 	DATA 	Keypress: space
+0.0078 	INFO 	Keyboard events cleared
+0.0076 	EXP 	welcome_text: autoDraw = True
+0.5839 	EXP 	Imported lists/mock2.xlsx as conditions, 2 conditions, 2 params
+0.5841 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'task': 'identity', 'instructions': 'test 1', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.5949 	DATA 	Keypress: space
+0.5973 	INFO 	Keyboard events cleared
+0.5971 	EXP 	welcome_text: autoDraw = False
+0.5971 	EXP 	text_instructions: height = 0.05
+0.5971 	EXP 	text_instructions: height = 0.05
+0.5971 	EXP 	text_instructions: height = 0.05
+0.5971 	EXP 	text_instructions: text = <psychopy.data.routine.Routine object at 0x000002AF0A5E17E0>
+0.5971 	EXP 	text_instructions: autoDraw = True
+3.1080 	EXP 	Imported lists/trials.xlsx as conditions, 3 conditions, 2 params
+3.1083 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'other', 'color': 'green', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+3.1116 	DATA 	Keypress: space
+3.1142 	INFO 	Keyboard events cleared
+3.1140 	EXP 	text_instructions: autoDraw = False
+3.1140 	EXP 	stimuli: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+3.1140 	EXP 	stimuli: height = 0.05
+3.1140 	EXP 	stimuli: height = 0.05
+3.1140 	EXP 	stimuli: height = 0.05
+3.1140 	EXP 	stimuli: text = 'other'
+3.1140 	EXP 	stimuli: autoDraw = True
+4.5394 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'word': 'friend', 'color': 'blue', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+4.5437 	DATA 	Keypress: j
+4.5458 	INFO 	Keyboard events cleared
+4.5456 	EXP 	stimuli: autoDraw = False
+4.5456 	EXP 	stimuli: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+4.5456 	EXP 	stimuli: height = 0.05
+4.5456 	EXP 	stimuli: height = 0.05
+4.5456 	EXP 	stimuli: height = 0.05
+4.5456 	EXP 	stimuli: text = 'friend'
+4.5456 	EXP 	stimuli: autoDraw = True
+4.8972 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'word': 'self', 'color': 'red', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+4.9032 	DATA 	Keypress: k
+4.9057 	INFO 	Keyboard events cleared
+4.9055 	EXP 	stimuli: autoDraw = False
+4.9055 	EXP 	stimuli: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+4.9055 	EXP 	stimuli: height = 0.05
+4.9055 	EXP 	stimuli: height = 0.05
+4.9055 	EXP 	stimuli: height = 0.05
+4.9055 	EXP 	stimuli: text = 'self'
+4.9055 	EXP 	stimuli: autoDraw = True
+5.1702 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'task': 'color', 'instructions': 'test 2', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+5.1769 	DATA 	Keypress: l
+5.1796 	INFO 	Keyboard events cleared
+5.1793 	EXP 	stimuli: autoDraw = False
+5.1793 	EXP 	text_instructions: height = 0.05
+5.1793 	EXP 	text_instructions: height = 0.05
+5.1793 	EXP 	text_instructions: height = 0.05
+5.1793 	EXP 	text_instructions: text = <psychopy.data.routine.Routine object at 0x000002AF0A5FB370>
+5.1793 	EXP 	text_instructions: autoDraw = True
+6.2267 	EXP 	Imported lists/trials.xlsx as conditions, 3 conditions, 2 params
+6.2269 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'self', 'color': 'red', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+6.2287 	DATA 	Keypress: space
+6.2308 	INFO 	Keyboard events cleared
+6.2306 	EXP 	text_instructions: autoDraw = False
+6.2306 	EXP 	stimuli: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+6.2306 	EXP 	stimuli: text = 'self'
+6.2306 	EXP 	stimuli: autoDraw = True
+6.5937 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'word': 'other', 'color': 'green', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+6.5964 	DATA 	Keypress: j
+6.6001 	INFO 	Keyboard events cleared
+6.5998 	EXP 	stimuli: autoDraw = False
+6.5998 	EXP 	stimuli: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+6.5998 	EXP 	stimuli: height = 0.05
+6.5998 	EXP 	stimuli: height = 0.05
+6.5998 	EXP 	stimuli: height = 0.05
+6.5998 	EXP 	stimuli: text = 'other'
+6.5998 	EXP 	stimuli: autoDraw = True
+6.8422 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'word': 'friend', 'color': 'blue', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+6.8466 	DATA 	Keypress: k
+6.8487 	INFO 	Keyboard events cleared
+6.8484 	EXP 	stimuli: autoDraw = False
+6.8484 	EXP 	stimuli: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+6.8484 	EXP 	stimuli: height = 0.05
+6.8484 	EXP 	stimuli: height = 0.05
+6.8484 	EXP 	stimuli: height = 0.05
+6.8484 	EXP 	stimuli: text = 'friend'
+6.8484 	EXP 	stimuli: autoDraw = True
+7.0926 	DATA 	Keypress: l
+7.0957 	INFO 	Keyboard events cleared
+7.0955 	EXP 	stimuli: autoDraw = False
+7.0955 	EXP 	goodbye_text: autoDraw = True
+7.4782 	DATA 	Keypress: k
+8.0479 	DATA 	Keypress: space
+8.0528 	EXP 	goodbye_text: autoDraw = False
+8.0529 	EXP 	Self: status = STOPPED
+8.0551 	INFO 	saved data to 'C:\\Users\\alex_\\Desktop\\self_task\\data/060885_Self_2025-08-05_18h32.48.425.csv'
+8.0557 	INFO 	saved data to C:\Users\alex_\Desktop\self_task\data/060885_Self_2025-08-05_18h32.48.425.psydat

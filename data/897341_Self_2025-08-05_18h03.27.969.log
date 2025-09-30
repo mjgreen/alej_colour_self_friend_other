@@ -1,0 +1,51 @@
+6.4862 	INFO 	Loaded monitor calibration from ['2025_06_03 17:22']
+6.4939 	WARNING 	User requested fullscreen with size [1707 1067], but screen is actually [2560, 1600]. Using actual size
+6.6653 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024D31F20640>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024D31F206A0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000024D31FF67A0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2560, 1600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.6654 	EXP 	window1: backgroundImage = ''
+6.6654 	EXP 	window1: backgroundFit = 'none'
+6.7251 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.7251 	EXP 	window1: recordFrameIntervals = False
+6.8018 	EXP 	window1: recordFrameIntervals = True
+6.9066 	EXP 	Screen (0) actual frame rate measured at 176.15Hz
+6.9066 	EXP 	window1: recordFrameIntervals = False
+8.8930 	INFO 	keyboard.Keyboard is using iohub backend.
+8.8930 	INFO 	keyboard.Keyboard is using iohub backend.
+8.8930 	INFO 	keyboard.Keyboard is using iohub backend.
+8.8931 	INFO 	keyboard.Keyboard is using iohub backend.
+8.8931 	INFO 	keyboard.Keyboard is using iohub backend.
+8.8931 	EXP 	Self: status = STARTED
+8.9530 	EXP 	Created welcome_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='welcome_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.9655 	EXP 	Created text_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.9661 	EXP 	Created stimuli = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.9687 	EXP 	Created goodbye_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='goodbye_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thanks for participating! ', units='height', win=Window(...), wrapWidth=1)
+0.0102 	INFO 	Keyboard events cleared
+0.0100 	EXP 	welcome_text: autoDraw = True
+0.6594 	DATA 	Keypress: space
+0.6614 	INFO 	Keyboard events cleared
+0.6612 	EXP 	welcome_text: autoDraw = False
+0.6612 	EXP 	text_instructions: autoDraw = True
+1.3732 	EXP 	Imported lists/trials.xlsx as conditions, 3 conditions, 2 params
+1.3735 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'other', 'color': 'green', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.3767 	DATA 	Keypress: space
+1.3789 	INFO 	Keyboard events cleared
+1.3786 	EXP 	text_instructions: autoDraw = False
+1.3786 	EXP 	stimuli: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+1.3786 	EXP 	stimuli: height = 0.05
+1.3786 	EXP 	stimuli: height = 0.05
+1.3786 	EXP 	stimuli: height = 0.05
+1.3786 	EXP 	stimuli: text = 'other'
+1.3786 	EXP 	stimuli: autoDraw = True
+2.1446 	DATA 	Keypress: j
+2.7022 	DATA 	Keypress: k
+3.3673 	EXP 	stimuli: autoDraw = False
+3.4290 	DATA 	Keypress: l
+7.1309 	DATA 	Keypress: j
+7.3198 	DATA 	Keypress: k
+7.4710 	DATA 	Keypress: l
+8.2042 	DATA 	Keypress: return
+8.5374 	DATA 	Keypress: space
+9.4638 	DATA 	Keypress: escape
+9.6095 	EXP 	Self: status = STOPPED
+9.6142 	EXP 	Self: status = STOPPED
+9.6179 	INFO 	saved data to 'C:\\Users\\alex_\\Desktop\\self_task\\data/897341_Self_2025-08-05_18h03.27.969.csv'
+9.6186 	INFO 	saved data to C:\Users\alex_\Desktop\self_task\data/897341_Self_2025-08-05_18h03.27.969.psydat

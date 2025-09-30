@@ -1,0 +1,177 @@
+5.5692 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+5.5700 	INFO 	Loaded monitor calibration from ['2025_06_03 17:22']
+5.7523 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000021C0DF2ABC0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000021C0DF2AB60>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000021C0DFECBE0>, multiSample=False, name='window1', numSamples=2, pos=[880.0, 500.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.7524 	EXP 	window1: backgroundImage = ''
+5.7524 	EXP 	window1: backgroundFit = 'none'
+5.7583 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7589 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7594 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7600 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7607 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7611 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7615 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7622 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7625 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7628 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7633 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7638 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7642 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7648 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7652 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7657 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7663 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7667 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7670 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7676 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7680 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7682 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.7721 	DEBUG 	Upload of Texture Font fontname complete
+5.7765 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7773 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7779 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.7781 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.7812 	DEBUG 	Upload of Texture Font fontname complete
+5.7825 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.7825 	EXP 	window1: recordFrameIntervals = False
+5.8580 	EXP 	window1: recordFrameIntervals = True
+5.9245 	EXP 	Screen (0) actual frame rate measured at 165.73Hz
+5.9245 	EXP 	window1: recordFrameIntervals = False
+5.9287 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9293 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9300 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9308 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9314 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9321 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9325 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9331 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9337 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9343 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9346 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.9350 	DEBUG 	Upload of Texture Font fontname complete
+5.9464 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+7.9205 	INFO 	keyboard.Keyboard is using iohub backend.
+7.9205 	INFO 	keyboard.Keyboard is using iohub backend.
+7.9205 	INFO 	keyboard.Keyboard is using iohub backend.
+7.9205 	INFO 	keyboard.Keyboard is using iohub backend.
+7.9205 	INFO 	keyboard.Keyboard is using iohub backend.
+7.9206 	EXP 	Self: status = STARTED
+7.9791 	EXP 	Created welcome_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='welcome_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.9797 	EXP 	Created text_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+7.9820 	EXP 	Created fix = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fix', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+7.9825 	EXP 	Created stimuli = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='stimuli', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+7.9844 	EXP 	Created goodbye_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='goodbye_text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thanks for participating! ', units='height', win=Window(...), wrapWidth=1)
+0.0122 	INFO 	Keyboard events cleared
+0.0120 	EXP 	welcome_text: autoDraw = True
+0.4634 	DEBUG 	Read excel file with openpyxl: lists/blocks.xlsx
+0.4635 	EXP 	Imported lists/blocks.xlsx as conditions, 2 conditions, 2 params
+0.4637 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'task': 'color', 'ins': 'In the following task, you will need to report the color of the word. \n- If the word is presented in blue, press j\n- If the word is presented in red, press k\n- If the word is presented in green, press l\n\npress the space key to start', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.4762 	DATA 	Keypress: space
+0.4784 	INFO 	Keyboard events cleared
+0.4782 	EXP 	welcome_text: autoDraw = False
+0.4782 	EXP 	text_instructions: height = 0.05
+0.4782 	EXP 	text_instructions: height = 0.05
+0.4782 	EXP 	text_instructions: height = 0.05
+0.4782 	EXP 	text_instructions: text = 'In the following task, you will need to report the color of the word. \n- If the word is presented in blue, press j\n- If the word is presented in red, press k\n- If the word is presented in green, press l\n\npress the space key to start'
+0.4782 	EXP 	text_instructions: autoDraw = True
+1.4041 	DEBUG 	Read excel file with openpyxl: lists/trials.xlsx
+1.4043 	EXP 	Imported lists/trials.xlsx as conditions, 3 conditions, 2 params
+1.4045 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'friend', 'color': 'blue', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.4071 	DATA 	Keypress: space
+1.4120 	EXP 	text_instructions: autoDraw = False
+1.4120 	EXP 	stimuli: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+1.4120 	EXP 	stimuli: height = 0.05
+1.4120 	EXP 	stimuli: height = 0.05
+1.4120 	EXP 	stimuli: height = 0.05
+1.4120 	EXP 	stimuli: text = 'friend'
+1.4120 	EXP 	fix: autoDraw = True
+1.8910 	INFO 	Keyboard events cleared
+1.8907 	EXP 	stimuli: autoDraw = True
+1.9026 	EXP 	fix: autoDraw = False
+2.2376 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'word': 'self', 'color': 'red', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+2.2394 	DATA 	Keypress: j
+2.2420 	EXP 	fix: autoDraw = False
+2.2420 	EXP 	stimuli: autoDraw = False
+2.2420 	EXP 	stimuli: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+2.2420 	EXP 	stimuli: height = 0.05
+2.2420 	EXP 	stimuli: height = 0.05
+2.2420 	EXP 	stimuli: height = 0.05
+2.2420 	EXP 	stimuli: text = 'self'
+2.2420 	EXP 	fix: autoDraw = True
+2.7269 	INFO 	Keyboard events cleared
+2.7267 	EXP 	stimuli: autoDraw = True
+2.7328 	EXP 	fix: autoDraw = False
+3.2557 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'word': 'other', 'color': 'green', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+3.2573 	DATA 	Keypress: k
+3.2598 	EXP 	fix: autoDraw = False
+3.2598 	EXP 	stimuli: autoDraw = False
+3.2598 	EXP 	stimuli: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+3.2598 	EXP 	stimuli: height = 0.05
+3.2598 	EXP 	stimuli: height = 0.05
+3.2598 	EXP 	stimuli: height = 0.05
+3.2598 	EXP 	stimuli: text = 'other'
+3.2598 	EXP 	fix: autoDraw = True
+3.7447 	INFO 	Keyboard events cleared
+3.7445 	EXP 	stimuli: autoDraw = True
+3.7507 	EXP 	fix: autoDraw = False
+4.3051 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'task': 'identity', 'ins': 'In the following task, you will need to report the identity of the word. \n- If the word is self, press j\n- If the word is friend, press k\n- If the word is other, press l\n\npress the space key to start', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+4.3095 	DATA 	Keypress: j
+4.3141 	INFO 	Keyboard events cleared
+4.3139 	EXP 	fix: autoDraw = False
+4.3139 	EXP 	stimuli: autoDraw = False
+4.3139 	EXP 	text_instructions: height = 0.05
+4.3139 	EXP 	text_instructions: height = 0.05
+4.3139 	EXP 	text_instructions: height = 0.05
+4.3139 	EXP 	text_instructions: text = 'In the following task, you will need to report the identity of the word. \n- If the word is self, press j\n- If the word is friend, press k\n- If the word is other, press l\n\npress the space key to start'
+4.3139 	EXP 	text_instructions: autoDraw = True
+5.0094 	DEBUG 	Read excel file with openpyxl: lists/trials.xlsx
+5.0095 	EXP 	Imported lists/trials.xlsx as conditions, 3 conditions, 2 params
+5.0097 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'word': 'self', 'color': 'red', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+5.0114 	DATA 	Keypress: space
+5.0171 	EXP 	text_instructions: autoDraw = False
+5.0171 	EXP 	stimuli: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+5.0171 	EXP 	stimuli: height = 0.05
+5.0171 	EXP 	stimuli: height = 0.05
+5.0171 	EXP 	stimuli: height = 0.05
+5.0171 	EXP 	stimuli: text = 'self'
+5.0171 	EXP 	fix: autoDraw = True
+5.4958 	INFO 	Keyboard events cleared
+5.4955 	EXP 	stimuli: autoDraw = True
+5.5080 	EXP 	fix: autoDraw = False
+5.5580 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'word': 'other', 'color': 'green', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+5.5598 	DATA 	Keypress: j
+5.5626 	EXP 	fix: autoDraw = False
+5.5626 	EXP 	stimuli: autoDraw = False
+5.5626 	EXP 	stimuli: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+5.5626 	EXP 	stimuli: height = 0.05
+5.5626 	EXP 	stimuli: height = 0.05
+5.5626 	EXP 	stimuli: height = 0.05
+5.5626 	EXP 	stimuli: text = 'other'
+5.5626 	EXP 	fix: autoDraw = True
+6.0471 	INFO 	Keyboard events cleared
+6.0469 	EXP 	stimuli: autoDraw = True
+6.0529 	EXP 	fix: autoDraw = False
+6.5340 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'word': 'friend', 'color': 'blue', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+6.5357 	DATA 	Keypress: k
+6.5435 	EXP 	fix: autoDraw = False
+6.5435 	EXP 	stimuli: autoDraw = False
+6.5435 	EXP 	stimuli: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+6.5435 	EXP 	stimuli: height = 0.05
+6.5435 	EXP 	stimuli: height = 0.05
+6.5435 	EXP 	stimuli: height = 0.05
+6.5435 	EXP 	stimuli: text = 'friend'
+6.5435 	EXP 	fix: autoDraw = True
+7.0224 	INFO 	Keyboard events cleared
+7.0222 	EXP 	stimuli: autoDraw = True
+7.0345 	EXP 	fix: autoDraw = False
+7.3286 	DATA 	Keypress: l
+7.3319 	INFO 	Keyboard events cleared
+7.3316 	EXP 	fix: autoDraw = False
+7.3316 	EXP 	stimuli: autoDraw = False
+7.3316 	EXP 	goodbye_text: autoDraw = True
+17.3230 	EXP 	goodbye_text: autoDraw = False
+20.6218 	DATA 	Keypress: escape
+20.8877 	EXP 	Self: status = STOPPED
+20.8933 	EXP 	Self: status = STOPPED
+20.8982 	INFO 	saved data to 'C:\\Users\\alex_\\Desktop\\self_task\\data/189316_Self_2025-08-05_19h40.05.415.csv'
+20.8998 	INFO 	saved data to C:\Users\alex_\Desktop\self_task\data/189316_Self_2025-08-05_19h40.05.415.psydat
+21.3709 	DEBUG 	Saving data for Self ExperimentHandler
