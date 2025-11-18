@@ -135,7 +135,7 @@ def setupData(expInfo, dataDir=None):
     thisExp = data.ExperimentHandler(
         name=expName, version=expVersion,
         extraInfo=expInfo, runtimeInfo=None,
-        originPath='C:\\Users\\Matt\\gits\\alej_colour_self_friend_other\\alej_colour_self_friend_other_lastrun.py',
+        originPath='C:\\Users\\Matt\\gits\\alej_colour_self_friend_other\\alej_colour_self_friend_other.py',
         savePickle=True, saveWideText=True,
         dataFileName=dataDir + os.sep + filename, sortColumns='time'
     )
